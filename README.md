@@ -1,0 +1,2 @@
+# DeltaTableOfIndicators
+ table of indicators
