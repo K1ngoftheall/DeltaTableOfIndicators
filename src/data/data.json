@@ -1,0 +1,74 @@
+[
+  {
+    "id": "001",
+    "title": "Выручка",
+    "values": [
+      { "day": "yesterday", "value": "400" },
+      { "day": "today", "value": "500" }
+    ],
+    "week": "4000"
+  },
+  {
+    "id": "002",
+    "title": "Наличные",
+    "values": [
+      { "day": "yesterday", "value": "420" },
+      { "day": "today", "value": "300" }
+    ],
+    "week": "2000"
+  },
+  {
+    "id": "003",
+    "title": "Безналичный расчёт",
+    "values": [
+      { "day": "yesterday", "value": "150" },
+      { "day": "today", "value": "200" }
+    ],
+    "week": "2000"
+  },
+  {
+    "id": "004",
+    "title": "Кредитные карты",
+    "values": [
+      { "day": "yesterday", "value": "30" },
+      { "day": "today", "value": "40" }
+    ],
+    "week": "50"
+  },
+  {
+    "id": "005",
+    "title": "Средний чек",
+    "values": [
+      { "day": "yesterday", "value": "45" },
+      { "day": "today", "value": "50" }
+    ],
+    "week": "400"
+  },
+  {
+    "id": "006",
+    "title": "Средний гость",
+    "values": [
+      { "day": "yesterday", "value": "12" },
+      { "day": "today", "value": "10" }
+    ],
+    "week": "60"
+  },
+  {
+    "id": "007",
+    "title": "Удаления из чека",
+    "values": [
+      { "day": "yesterday", "value": "7" },
+      { "day": "today", "value": "8" }
+    ],
+    "week": "7"
+  },
+  {
+    "id": "008",
+    "title": "Количество чеков",
+    "values": [
+      { "day": "yesterday", "value": "12" },
+      { "day": "today", "value": "10" }
+    ],
+    "week": "11"
+  }
+]

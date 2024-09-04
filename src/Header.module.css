@@ -1,0 +1,21 @@
+.header{
+    max-width: 100%;
+    margin: 0 0 5px;
+    display: grid;
+    grid-template-columns:2fr repeat(3, 1fr);
+    gap: 3px;
+    min-height: 50px;
+
+}
+
+.item{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    line-height: 50px;
+    background-color: rgb(234, 230, 230);
+}
+
+.today{
+    background-color: rgba(147, 228, 253, 0.648);
+}

@@ -1,0 +1,6 @@
+.TableSettings{
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 3px;
+}
